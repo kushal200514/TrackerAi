@@ -1,0 +1,2472 @@
+{
+  "problems": {
+    "breaking-the-myth": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "programming-and-what-are-computers": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "how-to-think-like-a-programmer": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "flowcharts-and-pseudocode": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "flowchart-problem-solving": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "dry-runs-edge-cases-and-debugging": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "programming-languages-and-choosing-a-path": {
+      "solved": true,
+      "solvedAt": "2026-10-14T12:00:00.000Z"
+    },
+    "learn-cpp": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "learn-java": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "learn-python": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "easy-and-medium": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "hard": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "pattern-1": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "pattern-2": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "pattern-3": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "pattern-4": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "pattern-5": {
+      "solved": true,
+      "solvedAt": "2026-10-15T12:00:00.000Z"
+    },
+    "pattern-6": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-7": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-8": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-9": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-10": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-11": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-12": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-13": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-14": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-15": {
+      "solved": true,
+      "solvedAt": "2026-10-16T12:00:00.000Z"
+    },
+    "pattern-16": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "pattern-17": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "pattern-18": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "pattern-19": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "pattern-20": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "pattern-21": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "pattern-22": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "theory-with-examples": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "stl": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "java-collections": {
+      "solved": true,
+      "solvedAt": "2026-10-17T12:00:00.000Z"
+    },
+    "python-libraries-part-1": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "python-libraries-part-2": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "basic-maths": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "basic-arrays-hashing-and-strings": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "basic-hashing": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "basic-string": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "count-all-digits-of-a-number": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "count-number-of-odd-digits-in-a-number": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "reverse-a-number": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "palindrome-number": {
+      "solved": true,
+      "solvedAt": "2026-10-18T12:00:00.000Z"
+    },
+    "return-the-largest-digit-in-a-number": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "factorial-of-a-given-number-i": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "check-if-the-number-if-armstrong": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "check-for-perfect-number": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "check-for-prime-number": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "count-of-prime-numbers-till-n": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "gcd-of-two-numbers": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "lcm-of-two-numbers": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "divisors-of-a-number": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "sum-of-array-elements": {
+      "solved": true,
+      "solvedAt": "2026-10-19T12:00:00.000Z"
+    },
+    "count-of-odd-numbers-in-array": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "check-if-the-array-is-sorted-i": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "reverse-an-array": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "highest-occurring-element-in-an-array": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "second-highest-occurring-element": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "sum-of-highest-and-lowest-frequency": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "reverse-a-string-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "palindrome-check": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "largest-odd-number-in-a-string": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "longest-common-prefix": {
+      "solved": true,
+      "solvedAt": "2026-10-20T12:00:00.000Z"
+    },
+    "isomorphic-string": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "rotate-string": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "valid-anagram": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "sort-characters-by-frequency": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "recursion-theory": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "recursion-concepts-with-parameters": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "sum-of-first-n-numbers": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "factorial-of-a-given-number-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "sum-of-array-elements-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "reverse-a-string-i": {
+      "solved": true,
+      "solvedAt": "2026-10-21T12:00:00.000Z"
+    },
+    "check-if-string-is-palindrome-or-not-": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "check-if-a-number-is-prime-or-not": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "reverse-an-array-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "check-if-the-array-is-sorted-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "sum-of-digits-in-a-given-number": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "fibonacci-number": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "selection-sort": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "bubble-sort": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "insertion-sorting": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "merge-sorting": {
+      "solved": true,
+      "solvedAt": "2026-10-22T12:00:00.000Z"
+    },
+    "quick-sorting": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "recursive-bubble-sort": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "recursive-insertion-sort": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "linear-search": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "largest-element": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "second-largest-element": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "maximum-consecutive-ones": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "left-rotate-array-by-one": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "left-rotate-array": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "move-zeros-to-end": {
+      "solved": true,
+      "solvedAt": "2026-10-23T12:00:00.000Z"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "find-missing-number": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "union-of-two-sorted-arrays": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "intersection-of-two-sorted-arrays": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "majority-element-i": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "leaders-in-an-array": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "rearrange-array-elements-by-sign": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "print-the-matrix-in-spiral-manner": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "pascals-triangle-i": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "pascals-triangle-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-24T12:00:00.000Z"
+    },
+    "pascals-triangle-iii": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "rotate-matrix-by-90-degrees": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "set-matrix-zeroes": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "two-sum": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "3-sum": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "4-sum": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "sort-an-array-of-0's-1's-and-2's": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "kadane's-algorithm": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "next-permutation": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "majority-element-ii": {
+      "solved": true,
+      "solvedAt": "2026-10-25T12:00:00.000Z"
+    },
+    "find-the-repeating-and-missing-number": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "count-inversions": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "reverse-pairs": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "maximum-product-subarray-in-an-array": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "merge-two-sorted-arrays-without-extra-space": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "basic-hashing-theory": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "longest-consecutive-sequence-in-an-array": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "longest-subarray-with-sum-k": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "largest-subarray-with-sum-0": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "count-subarrays-with-given-sum": {
+      "solved": true,
+      "solvedAt": "2026-10-26T12:00:00.000Z"
+    },
+    "count-subarrays-with-given-xor-k": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "search-x-in-sorted-array": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "lower-bound-": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "upper-bound": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "search-insert-position": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "floor-and-ceil-in-sorted-array": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "first-and-last-occurrence": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "search-in-rotated-sorted-array-i": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    },
+    "search-in-rotated-sorted-array-2": {
+      "solved": true,
+      "solvedAt": "2026-10-27T12:00:00.000Z"
+    }
+  },
+  "plan": [
+    {
+      "date": "2026-10-27",
+      "dayNumber": 1,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "find-minimum-in-rotated-sorted-array",
+        "find-out-how-many-times-the-array-is-rotated",
+        "single-element-in-sorted-array"
+      ],
+      "title": "Day 1: 3 Problems"
+    },
+    {
+      "date": "2026-10-28",
+      "dayNumber": 2,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "count-occurrences-in-a-sorted-array",
+        "find-square-root-of-a-number",
+        "find-nth-root-of-a-number"
+      ],
+      "title": "Day 2: 3 Problems"
+    },
+    {
+      "date": "2026-10-29",
+      "dayNumber": 3,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "find-the-smallest-divisor",
+        "koko-eating-bananas",
+        "minimum-days-to-make-m-bouquets"
+      ],
+      "title": "Day 3: 3 Problems"
+    },
+    {
+      "date": "2026-10-30",
+      "dayNumber": 4,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "capacity-to-ship-packages-within-d-days",
+        "kth-missing-positive-number",
+        "painters-partition"
+      ],
+      "title": "Day 4: 3 Problems"
+    },
+    {
+      "date": "2026-10-31",
+      "dayNumber": 5,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "aggressive-cows",
+        "book-allocation-problem",
+        "find-peak-element"
+      ],
+      "title": "Day 5: 3 Problems"
+    },
+    {
+      "date": "2026-11-01",
+      "dayNumber": 6,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-11-02",
+      "dayNumber": 7,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "median-of-2-sorted-arrays",
+        "kth-element-of-2-sorted-arrays",
+        "minimise-max-distance-to-gas-stations"
+      ],
+      "title": "Day 7: 3 Problems"
+    },
+    {
+      "date": "2026-11-03",
+      "dayNumber": 8,
+      "dayOfWeek": "Tuesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 1)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-11-04",
+      "dayNumber": 9,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "split-array---largest-sum",
+        "find-row-with-maximum-1's",
+        "search-in-a-2d-matrix"
+      ],
+      "title": "Day 9: 3 Problems"
+    },
+    {
+      "date": "2026-11-05",
+      "dayNumber": 10,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "search-in-2d-matrix-ii",
+        "find-peak-element-ii",
+        "matrix-median"
+      ],
+      "title": "Day 10: 3 Problems",
+      "contest": {
+        "id": "contest-binary-search",
+        "title": "Binary Search Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "dayNumber": 11,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "remove-outermost-parentheses",
+        "maximum-nesting-depth-of-the-parentheses",
+        "roman-to-integer"
+      ],
+      "title": "Day 11: 3 Problems"
+    },
+    {
+      "date": "2026-11-07",
+      "dayNumber": 12,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "string-to-integer-atoi",
+        "count-number-of-substring",
+        "longest-palindromic-substring"
+      ],
+      "title": "Day 12: 3 Problems"
+    },
+    {
+      "date": "2026-11-08",
+      "dayNumber": 13,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-11-09",
+      "dayNumber": 14,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "sum-of-beauty-of-all-substrings",
+        "pow(x,n)",
+        "generate-parentheses"
+      ],
+      "title": "Day 14: 3 Problems"
+    },
+    {
+      "date": "2026-11-10",
+      "dayNumber": 15,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "power-set",
+        "count-good-numbers",
+        "reverse-a-stack"
+      ],
+      "title": "Day 15: 3 Problems"
+    },
+    {
+      "date": "2026-11-11",
+      "dayNumber": 16,
+      "dayOfWeek": "Wednesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 2)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-11-12",
+      "dayNumber": 17,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "learn-all-patterns-of-subsequences",
+        "check-if-there-exists-a-subsequence-with-sum-k",
+        "count-all-subsequences-with-sum-k"
+      ],
+      "title": "Day 17: 3 Problems"
+    },
+    {
+      "date": "2026-11-13",
+      "dayNumber": 18,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "generate-binary-strings-without-consecutive-1s",
+        "combination-sum",
+        "combination-sum-ii"
+      ],
+      "title": "Day 18: 3 Problems"
+    },
+    {
+      "date": "2026-11-14",
+      "dayNumber": 19,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "subsets-i",
+        "subsets-ii",
+        "combination-sum-iii"
+      ],
+      "title": "Day 19: 3 Problems"
+    },
+    {
+      "date": "2026-11-15",
+      "dayNumber": 20,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-11-16",
+      "dayNumber": 21,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "letter-combinations-of-a-phone-number",
+        "palindrome-partitioning",
+        "word-search"
+      ],
+      "title": "Day 21: 3 Problems"
+    },
+    {
+      "date": "2026-11-17",
+      "dayNumber": 22,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "n-queen",
+        "rat-in-a-maze",
+        "m-coloring-problem"
+      ],
+      "title": "Day 22: 3 Problems"
+    },
+    {
+      "date": "2026-11-18",
+      "dayNumber": 23,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "sudoko-solver",
+        "expression-add-operators",
+        "introduction-to-singly-linkedlist"
+      ],
+      "title": "Day 23: 3 Problems",
+      "contest": {
+        "id": "contest-recursion",
+        "title": "Recursion Contest",
+        "problemCount": 5,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "dayNumber": 24,
+      "dayOfWeek": "Thursday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 3)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-11-20",
+      "dayNumber": 25,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "traversal-in-linked-list",
+        "deletion-in-linked-list",
+        "insertion-in-linked-list"
+      ],
+      "title": "Day 25: 3 Problems"
+    },
+    {
+      "date": "2026-11-21",
+      "dayNumber": 26,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "deletion-of-the-head-of-ll",
+        "deletion-of-the-tail-of-ll",
+        "deletion-of-the-kth-element-of-ll"
+      ],
+      "title": "Day 26: 3 Problems"
+    },
+    {
+      "date": "2026-11-22",
+      "dayNumber": 27,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-11-23",
+      "dayNumber": 28,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "delete-the-element-with-value-x",
+        "insertion-at-the-head-of-ll",
+        "insertion-at-the-tail-of-ll"
+      ],
+      "title": "Day 28: 3 Problems"
+    },
+    {
+      "date": "2026-11-24",
+      "dayNumber": 29,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "insertion-at-the-kth-position-of-ll",
+        "insertion-before-the-value-x-in-ll",
+        "find-the-length-of-the-linked-list"
+      ],
+      "title": "Day 29: 3 Problems"
+    },
+    {
+      "date": "2026-11-25",
+      "dayNumber": 30,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "search-in-linked-list",
+        "introduction-to-doubly-ll",
+        "deletion-in-doubly-ll"
+      ],
+      "title": "Day 30: 3 Problems"
+    },
+    {
+      "date": "2026-11-26",
+      "dayNumber": 31,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "insertion-in-dll",
+        "convert-array-to-dll",
+        "delete-tail-of-dll"
+      ],
+      "title": "Day 31: 3 Problems"
+    },
+    {
+      "date": "2026-11-27",
+      "dayNumber": 32,
+      "dayOfWeek": "Friday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 4)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-11-28",
+      "dayNumber": 33,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "delete-kth-element-of-dll",
+        "removing-given-node-in-dll",
+        "insert-node-before-head-in-dll"
+      ],
+      "title": "Day 33: 3 Problems"
+    },
+    {
+      "date": "2026-11-29",
+      "dayNumber": 34,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-11-30",
+      "dayNumber": 35,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "insert-node-before-tail-in-dll",
+        "insert-node-before-kth-node-in-dll",
+        "insert-before-given-node-in-dll"
+      ],
+      "title": "Day 35: 3 Problems"
+    },
+    {
+      "date": "2026-12-01",
+      "dayNumber": 36,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "delete-head-of-dll",
+        "reverse-a-doubly-linked-list",
+        "add-two-numbers-in-ll"
+      ],
+      "title": "Day 36: 3 Problems"
+    },
+    {
+      "date": "2026-12-02",
+      "dayNumber": 37,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "segregate-odd-and-even-nodes-in-ll",
+        "sort-a-ll-of-0's-1's-and-2's",
+        "remove-nth-node-from-the-back-of-the-ll"
+      ],
+      "title": "Day 37: 3 Problems"
+    },
+    {
+      "date": "2026-12-03",
+      "dayNumber": 38,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "reverse-a-ll",
+        "add-one-to-a-number-represented-by-ll",
+        "find-middle-of-linked-list"
+      ],
+      "title": "Day 38: 3 Problems"
+    },
+    {
+      "date": "2026-12-04",
+      "dayNumber": 39,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "delete-the-middle-node-in-ll",
+        "check-if-ll-is-palindrome-or-not",
+        "find-the-intersection-point-of-y-ll"
+      ],
+      "title": "Day 39: 3 Problems"
+    },
+    {
+      "date": "2026-12-05",
+      "dayNumber": 40,
+      "dayOfWeek": "Saturday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 5)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-12-06",
+      "dayNumber": 41,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-12-07",
+      "dayNumber": 42,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "detect-a-loop-in-ll",
+        "find-the-starting-point-in-ll",
+        "length-of-loop-in-ll"
+      ],
+      "title": "Day 42: 3 Problems"
+    },
+    {
+      "date": "2026-12-08",
+      "dayNumber": 43,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "reverse-ll-in-group-of-given-size-k",
+        "rotate-a-ll",
+        "merge-sorted-lists-"
+      ],
+      "title": "Day 43: 3 Problems"
+    },
+    {
+      "date": "2026-12-09",
+      "dayNumber": 44,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "flattening-of-ll",
+        "sort-ll",
+        "clone-a-ll-with-random-and-next-pointer"
+      ],
+      "title": "Day 44: 3 Problems"
+    },
+    {
+      "date": "2026-12-10",
+      "dayNumber": 45,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "delete-all-occurrences-of-a-key-in-dll",
+        "remove-duplicated-from-sorted-dll",
+        "find-pairs-with-given-sum-in-doubly-linked-list"
+      ],
+      "title": "Day 45: 3 Problems",
+      "contest": {
+        "id": "contest-linked-list",
+        "title": "Linked-List Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2026-12-11",
+      "dayNumber": 46,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "introduction-to-bits-and-tricks",
+        "check-if-the-i-th-bit-is-set-or-not",
+        "check-if-a-number-is-odd-or-not"
+      ],
+      "title": "Day 46: 3 Problems"
+    },
+    {
+      "date": "2026-12-12",
+      "dayNumber": 47,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "check-if-a-number-is-power-of-2-or-not",
+        "count-the-number-of-set-bits",
+        "set-the-rightmost-unset-bit"
+      ],
+      "title": "Day 47: 3 Problems"
+    },
+    {
+      "date": "2026-12-13",
+      "dayNumber": 48,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-12-14",
+      "dayNumber": 49,
+      "dayOfWeek": "Monday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 6)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-12-15",
+      "dayNumber": 50,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "swap-two-numbers",
+        "minimum-bit-flips-to-convert-number",
+        "single-number---i"
+      ],
+      "title": "Day 50: 3 Problems"
+    },
+    {
+      "date": "2026-12-16",
+      "dayNumber": 51,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "single-number---ii",
+        "single-number---iii",
+        "divide-two-numbers-without-multiplication-and-division"
+      ],
+      "title": "Day 51: 3 Problems"
+    },
+    {
+      "date": "2026-12-17",
+      "dayNumber": 52,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "power-set-bit-manipulation",
+        "xor-of-numbers-in-a-given-range",
+        "assign-cookies"
+      ],
+      "title": "Day 52: 3 Problems",
+      "contest": {
+        "id": "contest-bit-manipulation",
+        "title": "Bit Manipulation Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2026-12-18",
+      "dayNumber": 53,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "lemonade-change",
+        "fractional-knapsack",
+        "jump-game---i"
+      ],
+      "title": "Day 53: 3 Problems"
+    },
+    {
+      "date": "2026-12-19",
+      "dayNumber": 54,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "shortest-job-first",
+        "job-sequencing-problem",
+        "n-meetings-in-one-room"
+      ],
+      "title": "Day 54: 3 Problems"
+    },
+    {
+      "date": "2026-12-20",
+      "dayNumber": 55,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-12-21",
+      "dayNumber": 56,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "non-overlapping-intervals",
+        "insert-interval",
+        "merge-intervals"
+      ],
+      "title": "Day 56: 3 Problems"
+    },
+    {
+      "date": "2026-12-22",
+      "dayNumber": 57,
+      "dayOfWeek": "Tuesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 7)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-12-23",
+      "dayNumber": 58,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "minimum-number-of-platforms-required-for-a-railway",
+        "valid-paranthesis-checker",
+        "candy"
+      ],
+      "title": "Day 58: 3 Problems"
+    },
+    {
+      "date": "2026-12-24",
+      "dayNumber": 59,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "jump-game-ii",
+        "theory",
+        "maximum-points-you-can-obtain-from-cards-"
+      ],
+      "title": "Day 59: 3 Problems",
+      "contest": {
+        "id": "contest-greedy-algorithms",
+        "title": "Greedy Algorithms Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2026-12-25",
+      "dayNumber": 60,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "longest-substring-without-repeating-characters",
+        "max-consecutive-ones-iii",
+        "fruit-into-baskets"
+      ],
+      "title": "Day 60: 3 Problems"
+    },
+    {
+      "date": "2026-12-26",
+      "dayNumber": 61,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "longest-substring-with-at-most-k-distinct-characters",
+        "longest-repeating-character-replacement",
+        "minimum-window-substring-"
+      ],
+      "title": "Day 61: 3 Problems"
+    },
+    {
+      "date": "2026-12-27",
+      "dayNumber": 62,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2026-12-28",
+      "dayNumber": 63,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "minimum-window-subsequence",
+        "number-of-substrings-containing-all-three-characters",
+        "binary-subarrays-with-sum"
+      ],
+      "title": "Day 63: 3 Problems"
+    },
+    {
+      "date": "2026-12-29",
+      "dayNumber": 64,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "count-number-of-nice-subarrays",
+        "subarrays-with-k-different-integers",
+        "implementation-using-different-ds"
+      ],
+      "title": "Day 64: 3 Problems",
+      "contest": {
+        "id": "contest-sliding-window-and-2-pointer",
+        "title": "Sliding Window / 2 Pointer Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2026-12-30",
+      "dayNumber": 65,
+      "dayOfWeek": "Wednesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 8)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2026-12-31",
+      "dayNumber": 66,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "implement-stack-using-arrays",
+        "implement-queue-using-arrays",
+        "implement-stack-using-queue"
+      ],
+      "title": "Day 66: 3 Problems"
+    },
+    {
+      "date": "2027-01-01",
+      "dayNumber": 67,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "implement-queue-using-stack",
+        "implement-stack-using-linkedlist",
+        "implement-queue-using-linkedlist"
+      ],
+      "title": "Day 67: 3 Problems"
+    },
+    {
+      "date": "2027-01-02",
+      "dayNumber": 68,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "balanced-paranthesis",
+        "infix-to-postfix-conversion",
+        "infix-to-prefix-conversion"
+      ],
+      "title": "Day 68: 3 Problems"
+    },
+    {
+      "date": "2027-01-03",
+      "dayNumber": 69,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-01-04",
+      "dayNumber": 70,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "prefix-to-infix-conversion",
+        "prefix-to-postfix-conversion",
+        "postfix-to-infix-conversion"
+      ],
+      "title": "Day 70: 3 Problems"
+    },
+    {
+      "date": "2027-01-05",
+      "dayNumber": 71,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "postfix-to-prefix-conversion",
+        "next-greater-element",
+        "next-greater-element---2"
+      ],
+      "title": "Day 71: 3 Problems"
+    },
+    {
+      "date": "2027-01-06",
+      "dayNumber": 72,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "asteroid-collision",
+        "sum-of-subarray-minimums",
+        "sum-of-subarray-ranges"
+      ],
+      "title": "Day 72: 3 Problems"
+    },
+    {
+      "date": "2027-01-07",
+      "dayNumber": 73,
+      "dayOfWeek": "Thursday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 9)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-01-08",
+      "dayNumber": 74,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "remove-k-digits",
+        "next-smaller-element",
+        "implement-min-stack"
+      ],
+      "title": "Day 74: 3 Problems"
+    },
+    {
+      "date": "2027-01-09",
+      "dayNumber": 75,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "sliding-window-maximum",
+        "trapping-rainwater",
+        "largest-rectangle-in-a-histogram"
+      ],
+      "title": "Day 75: 3 Problems"
+    },
+    {
+      "date": "2027-01-10",
+      "dayNumber": 76,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-01-11",
+      "dayNumber": 77,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "maximum-rectangles",
+        "stock-span-problem",
+        "celebrity-problem"
+      ],
+      "title": "Day 77: 3 Problems"
+    },
+    {
+      "date": "2027-01-12",
+      "dayNumber": 78,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "lru-cache",
+        "lfu-cache",
+        "number-of-greater-elements-to-the-right"
+      ],
+      "title": "Day 78: 3 Problems",
+      "contest": {
+        "id": "contest-stack-and-queues",
+        "title": "Stack / Queues Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2027-01-13",
+      "dayNumber": 79,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "introduction-",
+        "inorder-traversal",
+        "preorder-traversal"
+      ],
+      "title": "Day 79: 3 Problems"
+    },
+    {
+      "date": "2027-01-14",
+      "dayNumber": 80,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "postorder-traversal",
+        "level-order-traversal",
+        "pre,-post,-inorder-in-one-traversal"
+      ],
+      "title": "Day 80: 3 Problems"
+    },
+    {
+      "date": "2027-01-15",
+      "dayNumber": 81,
+      "dayOfWeek": "Friday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 10)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-01-16",
+      "dayNumber": 82,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "maximum-depth-in-bt",
+        "check-if-two-trees-are-identical-or-not",
+        "check-for-balanced-binary-tree"
+      ],
+      "title": "Day 82: 3 Problems"
+    },
+    {
+      "date": "2027-01-17",
+      "dayNumber": 83,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-01-18",
+      "dayNumber": 84,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "diameter-of-binary-tree",
+        "maximum-path-sum-",
+        "check-for-symmetrical-bts"
+      ],
+      "title": "Day 84: 3 Problems"
+    },
+    {
+      "date": "2027-01-19",
+      "dayNumber": 85,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "children-sum-property-in-binary-tree",
+        "zig-zag-or-spiral-traversal",
+        "boundary-traversal"
+      ],
+      "title": "Day 85: 3 Problems"
+    },
+    {
+      "date": "2027-01-20",
+      "dayNumber": 86,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "vertical-order-traversal",
+        "top-view-of-bt",
+        "bottom-view-of-bt"
+      ],
+      "title": "Day 86: 3 Problems"
+    },
+    {
+      "date": "2027-01-21",
+      "dayNumber": 87,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "right-left-view-of-bt",
+        "print-root-to-leaf-path-in-bt",
+        "lca-in-bt"
+      ],
+      "title": "Day 87: 3 Problems"
+    },
+    {
+      "date": "2027-01-22",
+      "dayNumber": 88,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "maximum-width-of-bt",
+        "print-all-nodes-at-a-distance-of-k-in-bt",
+        "minimum-time-taken-to-burn-the-bt-from-a-given-node"
+      ],
+      "title": "Day 88: 3 Problems"
+    },
+    {
+      "date": "2027-01-23",
+      "dayNumber": 89,
+      "dayOfWeek": "Saturday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 11)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-01-24",
+      "dayNumber": 90,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-01-25",
+      "dayNumber": 91,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "count-total-nodes-in-a-complete-bt",
+        "flatten-binary-tree-to-linked-list",
+        "requirements-needed-to-construct-a-unique-bt"
+      ],
+      "title": "Day 91: 3 Problems"
+    },
+    {
+      "date": "2027-01-26",
+      "dayNumber": 92,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "construct-a-bt-from-preorder-and-inorder",
+        "construct-a-bt-from-postorder-and-inorder",
+        "serialize-and-de-serialize-bt"
+      ],
+      "title": "Day 92: 3 Problems"
+    },
+    {
+      "date": "2027-01-27",
+      "dayNumber": 93,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "morris-inorder-traversal-",
+        "morris-preorder-traversal-",
+        "introduction-to-bst"
+      ],
+      "title": "Day 93: 3 Problems",
+      "contest": {
+        "id": "contest-binary-trees",
+        "title": "Binary Trees Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2027-01-28",
+      "dayNumber": 94,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "search-in-bst",
+        "floor-and-ceil-in-a-bst",
+        "minimum-and-maximum-in-bst"
+      ],
+      "title": "Day 94: 3 Problems"
+    },
+    {
+      "date": "2027-01-29",
+      "dayNumber": 95,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "insert-a-given-node-in-bst",
+        "delete-a-node-in-bst",
+        "kth-smallest-and-largest-element-in-bst"
+      ],
+      "title": "Day 95: 3 Problems"
+    },
+    {
+      "date": "2027-01-30",
+      "dayNumber": 96,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "check-if-a-tree-is-a-bst-or-not",
+        "lca-in-bst",
+        "construct-a-bst-from-a-preorder-traversal"
+      ],
+      "title": "Day 96: 3 Problems"
+    },
+    {
+      "date": "2027-01-31",
+      "dayNumber": 97,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-02-01",
+      "dayNumber": 98,
+      "dayOfWeek": "Monday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 12)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-02-02",
+      "dayNumber": 99,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "inorder-successor-and-predecessor-in-bst",
+        "bst-iterator",
+        "two-sum-in-bst"
+      ],
+      "title": "Day 99: 3 Problems"
+    },
+    {
+      "date": "2027-02-03",
+      "dayNumber": 100,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "correct-bst-with-two-nodes-swapped",
+        "largest-bst-in-binary-tree",
+        "heaps-theory"
+      ],
+      "title": "Day 100: 3 Problems",
+      "contest": {
+        "id": "contest-binary-search-trees",
+        "title": "Binary Search Trees Contest",
+        "problemCount": 2,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    },
+    {
+      "date": "2027-02-04",
+      "dayNumber": 101,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "heapify-algorithm",
+        "build-heap-from-a-given-array",
+        "implement-min-heap"
+      ],
+      "title": "Day 101: 3 Problems"
+    },
+    {
+      "date": "2027-02-05",
+      "dayNumber": 102,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "implement-max-heap",
+        "check-if-an-array-represents-a-min-heap-",
+        "convert-min-heap-to-max-heap"
+      ],
+      "title": "Day 102: 3 Problems"
+    },
+    {
+      "date": "2027-02-06",
+      "dayNumber": 103,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "heap-sort",
+        "k-th-largest-element-in-an-array",
+        "kth-largest-element-in-a-stream-of-running-integers"
+      ],
+      "title": "Day 103: 3 Problems"
+    },
+    {
+      "date": "2027-02-07",
+      "dayNumber": 104,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-02-08",
+      "dayNumber": 105,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "sort-a-k-sorted-array",
+        "merge-k-sorted-lists",
+        "replace-elements-by-their-rank"
+      ],
+      "title": "Day 105: 3 Problems"
+    },
+    {
+      "date": "2027-02-09",
+      "dayNumber": 106,
+      "dayOfWeek": "Tuesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 13)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-02-10",
+      "dayNumber": 107,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "task-scheduler",
+        "hand-of-straights",
+        "design-twitter"
+      ],
+      "title": "Day 107: 3 Problems"
+    },
+    {
+      "date": "2027-02-11",
+      "dayNumber": 108,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "minimum-cost-to-connect-sticks",
+        "maximum-sum-combination",
+        "find-median-from-data-stream"
+      ],
+      "title": "Day 108: 3 Problems"
+    },
+    {
+      "date": "2027-02-12",
+      "dayNumber": 109,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "top-k-frequent-elements",
+        "introduction-to-graph",
+        "traversal-techniques"
+      ],
+      "title": "Day 109: 3 Problems",
+      "contest": {
+        "id": "contest-heaps-heaps",
+        "title": "Heaps Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest-heaps"
+      }
+    },
+    {
+      "date": "2027-02-13",
+      "dayNumber": 110,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "connected-components",
+        "number-of-provinces",
+        "number-of-islands"
+      ],
+      "title": "Day 110: 3 Problems"
+    },
+    {
+      "date": "2027-02-14",
+      "dayNumber": 111,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-02-15",
+      "dayNumber": 112,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "flood-fill-algorithm",
+        "number-of-enclaves",
+        "rotten-oranges"
+      ],
+      "title": "Day 112: 3 Problems"
+    },
+    {
+      "date": "2027-02-16",
+      "dayNumber": 113,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "distance-of-nearest-cell-having-one",
+        "surrounded-regions",
+        "number-of-distinct-islands"
+      ],
+      "title": "Day 113: 3 Problems"
+    },
+    {
+      "date": "2027-02-17",
+      "dayNumber": 114,
+      "dayOfWeek": "Wednesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 14)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-02-18",
+      "dayNumber": 115,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "detect-a-cycle-in-an-undirected-graph",
+        "bipartite-graph",
+        "topological-sort-or-kahns-algorithm"
+      ],
+      "title": "Day 115: 3 Problems"
+    },
+    {
+      "date": "2027-02-19",
+      "dayNumber": 116,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "detect-a-cycle-in-a-directed-graph",
+        "find-eventual-safe-states",
+        "course-schedule-i"
+      ],
+      "title": "Day 116: 3 Problems"
+    },
+    {
+      "date": "2027-02-20",
+      "dayNumber": 117,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "course-schedule-ii",
+        "alient-dictionary",
+        "shortest-path-in-dag"
+      ],
+      "title": "Day 117: 3 Problems"
+    },
+    {
+      "date": "2027-02-21",
+      "dayNumber": 118,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-02-22",
+      "dayNumber": 119,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "shortest-path-in-undirected-graph-with-unit-weights",
+        "word-ladder-i",
+        "word-ladder-ii"
+      ],
+      "title": "Day 119: 3 Problems"
+    },
+    {
+      "date": "2027-02-23",
+      "dayNumber": 120,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "dijkstra's-algorithm",
+        "print-shortest-path-",
+        "shortest-path-with-minimum-effort"
+      ],
+      "title": "Day 120: 3 Problems"
+    },
+    {
+      "date": "2027-02-24",
+      "dayNumber": 121,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "path-with-minimum-effort",
+        "cheapest-flight-within-k-stops",
+        "minimum-multiplications-to-reach-end"
+      ],
+      "title": "Day 121: 3 Problems"
+    },
+    {
+      "date": "2027-02-25",
+      "dayNumber": 122,
+      "dayOfWeek": "Thursday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 15)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-02-26",
+      "dayNumber": 123,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "number-of-ways-to-arrive-at-destination",
+        "bellman-ford-algorithm",
+        "floyd-warshall-algorithm"
+      ],
+      "title": "Day 123: 3 Problems"
+    },
+    {
+      "date": "2027-02-27",
+      "dayNumber": 124,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "find-the-city-with-the-smallest-number-of-neighbors",
+        "network-delay-time",
+        "swim-in-rising-water"
+      ],
+      "title": "Day 124: 3 Problems"
+    },
+    {
+      "date": "2027-02-28",
+      "dayNumber": 125,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-03-01",
+      "dayNumber": 126,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "mst-theory",
+        "disjoint-set-",
+        "find-the-mst-weight"
+      ],
+      "title": "Day 126: 3 Problems"
+    },
+    {
+      "date": "2027-03-02",
+      "dayNumber": 127,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "number-of-operations-to-make-network-connected",
+        "accounts-merge",
+        "number-of-islands-ii"
+      ],
+      "title": "Day 127: 3 Problems"
+    },
+    {
+      "date": "2027-03-03",
+      "dayNumber": 128,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "making-a-large-island",
+        "most-stones-removed-with-same-row-or-column",
+        "kosaraju's-algorithm"
+      ],
+      "title": "Day 128: 3 Problems"
+    },
+    {
+      "date": "2027-03-04",
+      "dayNumber": 129,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "bridges-in-graph",
+        "articulation-point-in-graph",
+        "introduction-to-dp"
+      ],
+      "title": "Day 129: 3 Problems",
+      "contest": {
+        "id": "contest-graphs-graph",
+        "title": "Graphs Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest-graphs"
+      }
+    },
+    {
+      "date": "2027-03-05",
+      "dayNumber": 130,
+      "dayOfWeek": "Friday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 16)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-03-06",
+      "dayNumber": 131,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "climbing-stairs",
+        "frog-jump",
+        "frog-jump-with-k-distances"
+      ],
+      "title": "Day 131: 3 Problems"
+    },
+    {
+      "date": "2027-03-07",
+      "dayNumber": 132,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-03-08",
+      "dayNumber": 133,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "maximum-sum-of-non-adjacent-elements",
+        "house-robber",
+        "ninja's-training"
+      ],
+      "title": "Day 133: 3 Problems"
+    },
+    {
+      "date": "2027-03-09",
+      "dayNumber": 134,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "grid-unique-paths",
+        "unique-paths-ii",
+        "minimum-falling-path-sum"
+      ],
+      "title": "Day 134: 3 Problems"
+    },
+    {
+      "date": "2027-03-10",
+      "dayNumber": 135,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "triangle",
+        "cherry-pickup-ii",
+        "count-square-submatrices-with-all-one"
+      ],
+      "title": "Day 135: 3 Problems"
+    },
+    {
+      "date": "2027-03-11",
+      "dayNumber": 136,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "best-time-to-buy-and-sell-stock",
+        "best-time-to-buy-and-sell-stock-ii",
+        "best-time-to-buy-and-sell-stock-iii"
+      ],
+      "title": "Day 136: 3 Problems"
+    },
+    {
+      "date": "2027-03-12",
+      "dayNumber": 137,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "best-time-to-buy-and-sell-stock-iv",
+        "best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
+        "best-time-to-buy-and-sell-stock-with-cooldown"
+      ],
+      "title": "Day 137: 3 Problems"
+    },
+    {
+      "date": "2027-03-13",
+      "dayNumber": 138,
+      "dayOfWeek": "Saturday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 17)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-03-14",
+      "dayNumber": 139,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-03-15",
+      "dayNumber": 140,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "subset-sum-equals-to-target",
+        "partition-equal-subset-sum",
+        "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference"
+      ],
+      "title": "Day 140: 3 Problems"
+    },
+    {
+      "date": "2027-03-16",
+      "dayNumber": 141,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "count-subsets-with-sum-k",
+        "count-partitions-with-given-difference",
+        "0-and-1-knapsack"
+      ],
+      "title": "Day 141: 3 Problems"
+    },
+    {
+      "date": "2027-03-17",
+      "dayNumber": 142,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "minimum-coins",
+        "target-sum",
+        "coin-change-ii"
+      ],
+      "title": "Day 142: 3 Problems"
+    },
+    {
+      "date": "2027-03-18",
+      "dayNumber": 143,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "unbounded-knapsack",
+        "rod-cutting-problem",
+        "longest-increasing-subsequence"
+      ],
+      "title": "Day 143: 3 Problems"
+    },
+    {
+      "date": "2027-03-19",
+      "dayNumber": 144,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "print-longest-increasing-subsequence",
+        "largest-divisible-subset",
+        "longest-string-chain"
+      ],
+      "title": "Day 144: 3 Problems"
+    },
+    {
+      "date": "2027-03-20",
+      "dayNumber": 145,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "longest-bitonic-subsequence",
+        "number-of-longest-increasing-subsequences",
+        "longest-common-subsequence"
+      ],
+      "title": "Day 145: 3 Problems"
+    },
+    {
+      "date": "2027-03-21",
+      "dayNumber": 146,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-03-22",
+      "dayNumber": 147,
+      "dayOfWeek": "Monday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 18)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-03-23",
+      "dayNumber": 148,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "longest-common-substring",
+        "longest-palindromic-subsequence",
+        "minimum-insertions-to-make-string-palindrome"
+      ],
+      "title": "Day 148: 3 Problems"
+    },
+    {
+      "date": "2027-03-24",
+      "dayNumber": 149,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "minimum-insertions-or-deletions-to-convert-string-a-to-b",
+        "shortest-common-supersequence",
+        "distinct-subsequences"
+      ],
+      "title": "Day 149: 3 Problems"
+    },
+    {
+      "date": "2027-03-25",
+      "dayNumber": 150,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "edit-distance",
+        "wildcard-matching",
+        "word-break"
+      ],
+      "title": "Day 150: 3 Problems"
+    },
+    {
+      "date": "2027-03-26",
+      "dayNumber": 151,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "count-palindromic-subsequences",
+        "matrix-chain-multiplication",
+        "burst-balloons"
+      ],
+      "title": "Day 151: 3 Problems"
+    },
+    {
+      "date": "2027-03-27",
+      "dayNumber": 152,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "palindrome-partitioning-ii-",
+        "partition-array-for-maximum-sum",
+        "minimum-cost-to-cut-the-stick"
+      ],
+      "title": "Day 152: 3 Problems"
+    },
+    {
+      "date": "2027-03-28",
+      "dayNumber": 153,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-03-29",
+      "dayNumber": 154,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "different-ways-to-evaluate-a-boolean-expression",
+        "bit-prerequisites-for-trie-problems",
+        "trie-implementation-and-operations"
+      ],
+      "title": "Day 154: 3 Problems",
+      "contest": {
+        "id": "dp-contest-2-dynamic-programming",
+        "title": "Dynamic Programming Contest",
+        "problemCount": 2,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/dp-contest-2"
+      }
+    },
+    {
+      "date": "2027-03-30",
+      "dayNumber": 155,
+      "dayOfWeek": "Tuesday",
+      "type": "revision",
+      "problemIds": [],
+      "title": "Revision Day (Week 19)",
+      "description": "Review starred problems and weak recent topics."
+    },
+    {
+      "date": "2027-03-31",
+      "dayNumber": 156,
+      "dayOfWeek": "Wednesday",
+      "type": "new",
+      "problemIds": [
+        "trie-implementation-and-advanced-operations",
+        "longest-word-with-all-prefixes",
+        "number-of-distinct-substrings-in-a-string"
+      ],
+      "title": "Day 156: 3 Problems"
+    },
+    {
+      "date": "2027-04-01",
+      "dayNumber": 157,
+      "dayOfWeek": "Thursday",
+      "type": "new",
+      "problemIds": [
+        "maximum-xor-of-two-numbers-in-an-array",
+        "maximum-xor-with-an-element-from-an-array",
+        "reverse-every-word-in-a-string"
+      ],
+      "title": "Day 157: 3 Problems"
+    },
+    {
+      "date": "2027-04-02",
+      "dayNumber": 158,
+      "dayOfWeek": "Friday",
+      "type": "new",
+      "problemIds": [
+        "minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
+        "count-and-say",
+        "hashing-in-strings-theory"
+      ],
+      "title": "Day 158: 3 Problems"
+    },
+    {
+      "date": "2027-04-03",
+      "dayNumber": 159,
+      "dayOfWeek": "Saturday",
+      "type": "new",
+      "problemIds": [
+        "rabin-karp-algorithm",
+        "z-function",
+        "kmp-algorithm-or-lps-array"
+      ],
+      "title": "Day 159: 3 Problems"
+    },
+    {
+      "date": "2027-04-04",
+      "dayNumber": 160,
+      "dayOfWeek": "Sunday",
+      "type": "rest",
+      "problemIds": [],
+      "title": "Rest Day (Sunday)",
+      "description": "Take a break, rest, and recharge!"
+    },
+    {
+      "date": "2027-04-05",
+      "dayNumber": 161,
+      "dayOfWeek": "Monday",
+      "type": "new",
+      "problemIds": [
+        "shortest-palindrome",
+        "longest-happy-prefix",
+        "print-all-primes-till-n"
+      ],
+      "title": "Day 161: 3 Problems",
+      "contest": {
+        "id": "strings-contest-strings--advanced-algo",
+        "title": "Strings (Advanced Algo) Contest",
+        "problemCount": 3,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/strings-contest"
+      }
+    },
+    {
+      "date": "2027-04-06",
+      "dayNumber": 162,
+      "dayOfWeek": "Tuesday",
+      "type": "new",
+      "problemIds": [
+        "prime-factorisation-of-a-number",
+        "count-primes-in-range-l-to-r"
+      ],
+      "title": "Day 162: 2 Problems",
+      "contest": {
+        "id": "contest-maths",
+        "title": "Maths Contest",
+        "problemCount": 2,
+        "estimatedTime": "2 hours",
+        "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest"
+      }
+    }
+  ],
+  "settings": {
+    "startDate": "2026-10-27",
+    "problemsPerDay": 3,
+    "restDay": "Sunday",
+    "theme": "dark"
+  },
+  "lastActiveDate": "2026-10-27"
+}

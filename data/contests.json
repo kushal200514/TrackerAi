@@ -1,0 +1,178 @@
+[
+  {
+    "id": "contest-arrays",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Arrays",
+    "topicSlug": "arrays",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 122
+  },
+  {
+    "id": "contest-hashing",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Hashing",
+    "topicSlug": "hashing",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 128
+  },
+  {
+    "id": "contest-binary-search",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 160
+  },
+  {
+    "id": "contest-recursion",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Recursion",
+    "topicSlug": "recursion",
+    "problemCount": 5,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 189
+  },
+  {
+    "id": "contest-linked-list",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Linked-List",
+    "topicSlug": "linked-list",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 238
+  },
+  {
+    "id": "contest-bit-manipulation",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Bit Manipulation",
+    "topicSlug": "bit-manipulation",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 252
+  },
+  {
+    "id": "contest-greedy-algorithms",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Greedy Algorithms",
+    "topicSlug": "greedy-algorithms",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 266
+  },
+  {
+    "id": "contest-sliding-window-and-2-pointer",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Sliding Window / 2 Pointer",
+    "topicSlug": "sliding-window-and-2-pointer",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 279
+  },
+  {
+    "id": "contest-stack-and-queues",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Stack / Queues",
+    "topicSlug": "stack-and-queues",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 310
+  },
+  {
+    "id": "contest-binary-trees",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Binary Trees",
+    "topicSlug": "binary-trees",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 342
+  },
+  {
+    "id": "contest-binary-search-trees",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Binary Search Trees",
+    "topicSlug": "binary-search-trees",
+    "problemCount": 2,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 357
+  },
+  {
+    "id": "contest-heaps-heaps",
+    "slug": "contest-heaps",
+    "title": "Contest",
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest-heaps",
+    "afterOrder": 377
+  },
+  {
+    "id": "contest-graphs-graph",
+    "slug": "contest-graphs",
+    "title": "Contest",
+    "topic": "Graphs",
+    "topicSlug": "graph",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest-graphs",
+    "afterOrder": 423
+  },
+  {
+    "id": "dp-contest-2-dynamic-programming",
+    "slug": "dp-contest-2",
+    "title": "Contest",
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "problemCount": 2,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/dp-contest-2",
+    "afterOrder": 476
+  },
+  {
+    "id": "strings-contest-strings--advanced-algo",
+    "slug": "strings-contest",
+    "title": "Contest",
+    "topic": "Strings (Advanced Algo)",
+    "topicSlug": "strings--advanced-algo",
+    "problemCount": 3,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/strings-contest",
+    "afterOrder": 492
+  },
+  {
+    "id": "contest-maths",
+    "slug": "contest",
+    "title": "Contest",
+    "topic": "Maths",
+    "topicSlug": "maths",
+    "problemCount": 2,
+    "estimatedTime": "2 hours",
+    "practiceUrl": "https://takeuforward.org/practice/dsa/contest/contest",
+    "afterOrder": 495
+  }
+]
